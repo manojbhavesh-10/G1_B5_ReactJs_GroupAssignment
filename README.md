@@ -25,5 +25,5 @@ Movies on the Tip is an online movie manager whose responsibility is to take car
 5. A sample project working demonstration is attached for your reference, however, you can be innovative and create the project in different template structure.
 6. You are required to submit the screen recording of the working project, the recorded video will also be a criterion to calculate the final marks. You can attach a drive link of the video along with the solution in a separate text file. Make the drive link public. 
 
-## vedio recording link
+## Video recording link
  https://drive.google.com/file/d/1kPhuR0NPc8mFDbtO1Bzm87hqqAt0-OUj/view?usp=sharing
